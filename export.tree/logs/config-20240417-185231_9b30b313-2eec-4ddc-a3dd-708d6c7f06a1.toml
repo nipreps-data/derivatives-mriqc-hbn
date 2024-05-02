@@ -1,0 +1,81 @@
+[environment]
+cpu_count = 36
+exec_env = "posix"
+free_mem = 2.9
+freesurfer_home = "/opt/freesurfer"
+overcommit_policy = "heuristic"
+overcommit_limit = "50%"
+nipype_version = "1.8.7.dev0"
+synthstrip_path = "PosixPath('/opt/freesurfer/models/synthstrip.1.pt')"
+templateflow_version = "24.2.0.dev49+gb1f2eb2a.d20240413"
+total_memory = 62.51573181152344
+version = "24.0.0"
+
+[execution]
+ants_float = false
+bids_dir = "/data/datasets/HBN"
+bids_dir_datalad = true
+bids_database_dir = "/data/datasets/HBN/.bids-index"
+bids_database_wipe = false
+cwd = "/home/oesteban/tmp/mriqc-hbn"
+datalad_get = true
+debug = false
+dry_run = false
+dsname = "HBN"
+float32 = true
+layout = "BIDS Layout: /data/datasets/HBN"
+log_dir = "/data/derivatives/HBN/mriqc-24.0.0/logs"
+log_level = 15
+modalities = [ "dwi",]
+no_sub = true
+notrack = true
+output_dir = "/data/derivatives/HBN/mriqc-24.0.0"
+participant_label = [ "NDARCG258NEF", "NDARCP642KML", "NDARDX173WLD", "NDARFV061AR5", "NDARGK943RL3", "NDARGM196JMM", "NDARHZ500ZNT", "NDARJM036PVX", "NDARJR687LGX", "NDARLZ986JLL", "NDARMU053YEU", "NDARMW551YA0", "NDARNV694EMG", "NDARRP801AX1", "NDARRW680PHD", "NDARRZ993EL4", "NDARTG937LDA", "NDARUF389TXE", "NDARUW206XUG", "NDARVB819ENX", "NDARVL555VVA", "NDARVX111CNA", "NDARWG820RKE", "NDARXL023NG9", "NDARZA034RW7",]
+pdb = false
+reports_only = false
+resource_monitor = false
+run_uuid = "20240417-185231_9b30b313-2eec-4ddc-a3dd-708d6c7f06a1"
+templateflow_home = "/home/oesteban/.cache/templateflow"
+upload_strict = false
+verbose_reports = true
+webapi_url = "https://mriqc.nimh.nih.gov:443/api/v1"
+work_dir = "/home/oesteban/tmp/mriqc-hbn/mriqc-work"
+write_graph = false
+
+[workflow]
+analysis_level = [ "participant",]
+biggest_file_gb = 1
+deoblique = false
+despike = false
+fd_thres = 0.2
+fd_radius = 50
+fft_spikes_detector = false
+min_len_dwi = 17
+min_len_bold = 5
+species = "human"
+template_id = "MNI152NLin2009cAsym"
+
+[nipype]
+crashfile_format = "txt"
+get_linked_libs = false
+local_hash_check = true
+nprocs = 24
+omp_nthreads = 10
+plugin = "MultiProc"
+remove_node_directories = false
+resource_monitor = false
+stop_on_first_crash = true
+
+[settings]
+file_path = "/data/derivatives/HBN/mriqc-24.0.0/logs/config-20240417-185231_9b30b313-2eec-4ddc-a3dd-708d6c7f06a1.toml"
+start_time = 1713372751.978093
+
+[execution.bids_filters]
+
+[workflow.inputs]
+dwi = [ "/data/datasets/HBN/sub-NDARCP642KML/ses-HBNsiteCBIC/dwi/sub-NDARCP642KML_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz", "/data/datasets/HBN/sub-NDARDX173WLD/ses-HBNsiteCUNY/dwi/sub-NDARDX173WLD_ses-HBNsiteCUNY_acq-64dir_dwi.nii.gz", "/data/datasets/HBN/sub-NDARFV061AR5/ses-HBNsiteCBIC/dwi/sub-NDARFV061AR5_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz", "/data/datasets/HBN/sub-NDARGK943RL3/ses-HBNsiteRU/dwi/sub-NDARGK943RL3_ses-HBNsiteRU_acq-64dir_dwi.nii.gz", "/data/datasets/HBN/sub-NDARGM196JMM/ses-HBNsiteCBIC/dwi/sub-NDARGM196JMM_ses-HBNsiteCBIC_acq-64dirVARIANTObliquity_dwi.nii.gz", "/data/datasets/HBN/sub-NDARHZ500ZNT/ses-HBNsiteRU/dwi/sub-NDARHZ500ZNT_ses-HBNsiteRU_acq-64dir_dwi.nii.gz", "/data/datasets/HBN/sub-NDARJM036PVX/ses-HBNsiteRU/dwi/sub-NDARJM036PVX_ses-HBNsiteRU_acq-64dir_dwi.nii.gz", "/data/datasets/HBN/sub-NDARJR687LGX/ses-HBNsiteSI/dwi/sub-NDARJR687LGX_ses-HBNsiteSI_acq-64dir_dwi.nii.gz", "/data/datasets/HBN/sub-NDARMU053YEU/ses-HBNsiteRU/dwi/sub-NDARMU053YEU_ses-HBNsiteRU_acq-64dir_dwi.nii.gz", "/data/datasets/HBN/sub-NDARMW551YA0/ses-HBNsiteCBIC/dwi/sub-NDARMW551YA0_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz", "/data/datasets/HBN/sub-NDARNV694EMG/ses-HBNsiteRU/dwi/sub-NDARNV694EMG_ses-HBNsiteRU_acq-64dir_dwi.nii.gz", "/data/datasets/HBN/sub-NDARRP801AX1/ses-HBNsiteRU/dwi/sub-NDARRP801AX1_ses-HBNsiteRU_acq-64dir_dwi.nii.gz", "/data/datasets/HBN/sub-NDARRW680PHD/ses-HBNsiteCBIC/dwi/sub-NDARRW680PHD_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz", "/data/datasets/HBN/sub-NDARRZ993EL4/ses-HBNsiteCBIC/dwi/sub-NDARRZ993EL4_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz", "/data/datasets/HBN/sub-NDARTG937LDA/ses-HBNsiteRU/dwi/sub-NDARTG937LDA_ses-HBNsiteRU_acq-64dir_dwi.nii.gz", "/data/datasets/HBN/sub-NDARUW206XUG/ses-HBNsiteCBIC/dwi/sub-NDARUW206XUG_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz", "/data/datasets/HBN/sub-NDARVB819ENX/ses-HBNsiteRU/dwi/sub-NDARVB819ENX_ses-HBNsiteRU_acq-64dir_dwi.nii.gz", "/data/datasets/HBN/sub-NDARVX111CNA/ses-HBNsiteCBIC/dwi/sub-NDARVX111CNA_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz", "/data/datasets/HBN/sub-NDARWG820RKE/ses-HBNsiteCBIC/dwi/sub-NDARWG820RKE_ses-HBNsiteCBIC_acq-64dirVARIANTObliquity_dwi.nii.gz", "/data/datasets/HBN/sub-NDARXL023NG9/ses-HBNsiteRU/dwi/sub-NDARXL023NG9_ses-HBNsiteRU_acq-64dir_dwi.nii.gz", "/data/datasets/HBN/sub-NDARZA034RW7/ses-HBNsiteCUNY/dwi/sub-NDARZA034RW7_ses-HBNsiteCUNY_acq-64dir_dwi.nii.gz",]
+
+[nipype.plugin_args]
+maxtasksperchild = 1
+raise_insufficient = false
+n_procs = 24
