@@ -1,0 +1,21 @@
+------------------------------------------------------------------
+  Running MRIQC version 24.0.0
+  ----------------------------------------------------------------
+  * BIDS dataset path: /data/datasets/HBN.
+  * Output folder: /data/derivatives/HBN/mriqc-24.0.0.
+  * Analysis levels: ['group'].
+------------------------------------------------------------------
+
+2024-04-19 11:29:20 | INFO     | mriqc            | MRIQC config file: /home/oesteban/tmp/mriqc-hbn/mriqc-work/config-20240419-112835_64029754-c6af-456a-b55b-6aeea1dd0eb6.toml.
+------------------------------------------------------------------
+Generating group reports
+------------------------------------------------------------------
+
+2024-04-19 11:29:21 | INFO     | mriqc            | Generated summary TSV table for dwi data: /data/derivatives/HBN/mriqc-24.0.0/group_dwi.tsv
+2024-04-19 11:29:21 | INFO     | mriqc            | Group-dwi report generated: /data/derivatives/HBN/mriqc-24.0.0/group_dwi.html
+2024-04-19 11:29:21 | INFO     | mriqc            | Group level finished successfully.
+2024-04-19 11:29:21 | INFO     | mriqc            | Generating BIDS derivatives metadata.
+----------------------------------------------------------------
+  MRIQC completed (elapsed time 00h 00min 45s).
+----------------------------------------------------------------
+
