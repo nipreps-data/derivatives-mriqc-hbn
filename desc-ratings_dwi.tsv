@@ -1,0 +1,81 @@
+rater_id	input_file	rating	time_sec	timestamp	artifacts	comments
+oe	sub-NDARAW179AYF_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	2	298.191	2024-04-18 06:34:51	noise-local, wrap-around, processing	n/a
+oe	sub-NDARCP642KML_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	2.35	84.123	2024-04-18 06:36:56	inu	n/a
+oe	sub-NDARCU891YET_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	2.4	56.816	2024-04-18 06:38:06	head-motion	n/a
+oe	sub-NDARCV944JA6_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	2.2	89.232	2024-04-18 06:39:44	wrap-around, processing	n/a
+oe	sub-NDARDH086ZKK_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	2.9	72.77	2024-04-18 06:41:25	processing	n/a
+oe	sub-NDARDT181RP4_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	1.9	63.524	2024-04-18 06:42:36	head-motion	n/a
+oe	sub-NDARDX173WLD_ses-HBNsiteCUNY_acq-64dir_dwi.nii.gz	3.05	61.393	2024-04-18 06:43:54	n/a	n/a
+oe	sub-NDARED628HMQ_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	2.65	59.152	2024-04-18 06:44:58	processing	n/a
+oe	sub-NDAREM565ADW_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	1.6	54.264	2024-04-18 06:46:06	n/a	n/a
+oe	sub-NDARFV061AR5_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	1.4	72.392	2024-04-18 06:47:42	wrap-around, processing	n/a
+oe	sub-NDARGK943RL3_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	3.1	56.323	2024-04-18 06:48:45	processing	n/a
+oe	sub-NDARGM196JMM_ses-HBNsiteCBIC_acq-64dirVARIANTObliquity_dwi.nii.gz	2.3	38.311	2024-04-18 06:49:31	n/a	n/a
+oe	sub-NDARGM421YWQ_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	2.35	56.632	2024-04-18 06:50:39	wrap-around, processing	n/a
+oe	sub-NDARHZ500ZNT_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	3	41.4	2024-04-18 06:51:28	processing	n/a
+oe	sub-NDARJB366HYJ_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	2.35	29.856	2024-04-18 06:52:05	n/a	n/a
+oe	sub-NDARJM036PVX_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	2.7	138.63	2024-04-18 06:54:57	uncategorized	n/a
+oe	sub-NDARJR687LGX_ses-HBNsiteSI_acq-64dir_dwi.nii.gz	2.8	47.922	2024-04-18 06:56:11	processing	n/a
+oe	sub-NDARKX528PH3_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	2.55	31.552	2024-04-18 06:56:52	n/a	n/a
+oe	sub-NDARMU053YEU_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	2.4	29.309	2024-04-18 07:20:26	n/a	n/a
+oe	sub-NDARMV822KWR_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	1.1	37.418	2024-04-18 07:21:28	uncategorized	n/a
+oe	sub-NDARMW551YA0_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	3	49.422	2024-04-18 07:22:25	n/a	n/a
+oe	sub-NDARNV694EMG_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	1.2	40.349	2024-04-18 07:23:19	processing, uncategorized	n/a
+oe	sub-NDARPK237YHD_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	1.9	28.303	2024-04-18 07:23:55	n/a	n/a
+oe	sub-NDARPK237YHD_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	1.9	28.303	2024-04-18 07:23:56	n/a	n/a
+oe	sub-NDARRP801AX1_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	2.75	32.111	2024-04-18 07:24:35	n/a	n/a
+oe	sub-NDARRW680PHD_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	1	29.332	2024-04-18 07:28:16	n/a	n/a
+oe	sub-NDARRX897XV1_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	2.8	32.805	2024-04-18 07:28:54	n/a	n/a
+oe	sub-NDARRZ993EL4_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	2.15	25.287	2024-04-18 07:29:31	n/a	n/a
+oe	sub-NDARTG937LDA_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	2.8	39.998	2024-04-18 07:30:24	n/a	n/a
+oe	sub-NDARUW206XUG_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	2.25	57.199	2024-04-18 07:31:27	n/a	n/a
+oe	sub-NDARVB819ENX_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	1.75	33.81	2024-04-18 07:32:06	n/a	n/a
+oe	sub-NDARVX111CNA_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	2.7	27.059	2024-04-18 07:32:39	n/a	n/a
+oe	sub-NDARWG820RKE_ses-HBNsiteCBIC_acq-64dirVARIANTObliquity_dwi.nii.gz	2.1	33.504	2024-04-18 07:33:21	n/a	n/a
+oe	sub-NDARWR678HLF_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	2.75	25.631	2024-04-18 07:33:52	n/a	n/a
+oe	sub-NDARWY718TY7_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	2.55	52.188	2024-04-18 07:34:49	head-motion	n/a
+oe	sub-NDARXL023NG9_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	1	40.408	2024-04-18 07:35:35	wrap-around	n/a
+oe	sub-NDARYZ909VND_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	1	18.311	2024-04-18 07:36:09	n/a	n/a
+oe	sub-NDARZA034RW7_ses-HBNsiteCUNY_acq-64dir_dwi.nii.gz	1	52.308	2024-04-18 07:37:15	wrap-around	Temporal lobe cropped out of FoV
+oe	sub-NDARZY101JNB_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	2.15	40.828	2024-04-18 07:38:17	n/a	n/a
+oe	sub-NDARAN262WK6_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	1	31.983	2024-04-18 13:47:41	n/a	n/a
+oe	sub-NDARBT607PZL_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	2.9	38.684	2024-04-18 14:36:09	n/a	n/a
+oe	sub-NDARHD017XEU_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	3.15	41.612	2024-04-18 14:36:59	n/a	n/a
+oe	sub-NDARCG037CX4_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	2.65	36.392	2024-04-18 14:37:42	n/a	n/a
+oe	sub-NDARDF374LGN_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	1	44.377	2024-04-18 14:38:40	n/a	n/a
+oe	sub-NDARHG188YE9_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	2.15	56.469	2024-04-18 14:39:45	n/a	n/a
+oe	sub-NDARBK669XJQ_ses-HBNsiteSI_acq-64dir_dwi.nii.gz	3.4	59.325	2024-04-19 08:52:13	n/a	n/a
+oe	sub-NDARBZ913ZB9_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	2.05	44.432	2024-04-19 08:53:04	n/a	n/a
+oe	sub-NDARDF373ZDW_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	1.9	75.008	2024-04-19 08:54:26	processing	n/a
+oe	sub-NDAREV294WZ4_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	2.7	55.597	2024-04-19 08:55:30	ghost-aliasing	n/a
+oe	sub-NDARFR301KKP_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	2.75	39.117	2024-04-19 08:56:19	n/a	n/a
+oe	sub-NDARGA346NA7_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	2.4	60.13	2024-04-19 09:04:28	n/a	n/a
+oe	sub-NDARHC825ZFZ_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	2.2	29.159	2024-04-19 09:05:06	n/a	n/a
+oe	sub-NDARHX418ZGJ_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	2.6	35.316	2024-04-19 09:05:48	n/a	n/a
+oe	sub-NDARHZ852XY0_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	1	28.793	2024-04-19 09:06:40	n/a	n/a
+oe	sub-NDARJM296MDW_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	1.35	39.651	2024-04-19 09:07:56	wrap-around	n/a
+oe	sub-NDARJW072UJ3_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	2.9	31.18	2024-04-19 09:08:35	n/a	n/a
+oe	sub-NDARKF363RN1_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	2.15	51.642	2024-04-19 09:09:35	n/a	n/a
+oe	sub-NDARKH298MA3_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	1.9	44.007	2024-04-19 09:10:24	n/a	n/a
+oe	sub-NDARLJ280UCN_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	1.95	32.849	2024-04-19 09:11:06	n/a	n/a
+oe	sub-NDARLJ970DEY_ses-HBNsiteCBIC_acq-64dirVARIANTObliquity_dwi.nii.gz	2.15	34.569	2024-04-19 09:11:45	n/a	n/a
+oe	sub-NDARLM713ZAM_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	2.25	31.835	2024-04-19 09:12:23	n/a	n/a
+oe	sub-NDARMB945WN7_ses-HBNsiteCUNY_acq-64dir_dwi.nii.gz	2.9	36.902	2024-04-19 09:13:05	n/a	n/a
+oe	sub-NDARML142BEK_ses-HBNsiteSI_acq-64dir_dwi.nii.gz	3.1	43.155	2024-04-19 09:13:54	n/a	n/a
+oe	sub-NDARMZ687XRR_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	3.05	38.995	2024-04-19 09:14:39	n/a	n/a
+oe	sub-NDARNE511XHU_ses-HBNsiteSI_acq-64dir_dwi.nii.gz	2.85	38.811	2024-04-19 09:15:25	n/a	n/a
+oe	sub-NDARNP423EJQ_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	1.25	32.992	2024-04-19 09:16:03	wrap-around	n/a
+oe	sub-NDARRE445RHR_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	2.55	30.173	2024-04-19 09:16:39	n/a	n/a
+oe	sub-NDARRF059RMB_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	2.4	21.708	2024-04-19 09:17:07	n/a	n/a
+oe	sub-NDARRU720LG4_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	1.65	84.045	2024-04-19 09:18:38	n/a	n/a
+oe	sub-NDARTK657DV6_ses-HBNsiteSI_acq-64dir_dwi.nii.gz	2.9	27.279	2024-04-19 09:19:20	n/a	n/a
+oe	sub-NDARUB231LHN_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	1.85	38.852	2024-04-19 09:20:04	wrap-around	n/a
+oe	sub-NDARUC308ZLR_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	1	26.624	2024-04-19 09:20:45	n/a	n/a
+oe	sub-NDARWD585PRZ_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	2.9	42.061	2024-04-19 09:21:44	n/a	n/a
+oe	sub-NDARXK303DDB_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	1	21.695	2024-04-19 09:22:57	n/a	n/a
+oe	sub-NDARXN764AC7_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	2.95	26.116	2024-04-19 09:23:30	n/a	n/a
+oe	sub-NDARXV209WYA_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	2.9	23.66	2024-04-19 09:23:58	n/a	n/a
+oe	sub-NDARYD546HCB_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	1	29.393	2024-04-19 09:24:33	wrap-around, processing, uncategorized	n/a
+oe	sub-NDARYE521RDA_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	1	25.695	2024-04-19 09:25:21	n/a	n/a
+oe	sub-NDARYW984FLT_ses-HBNsiteCBIC_acq-64dir_dwi.nii.gz	3	22.019	2024-04-19 09:25:49	n/a	n/a
+oe	sub-NDARYZ637LK4_ses-HBNsiteRU_acq-64dir_dwi.nii.gz	2.55	25.088	2024-04-19 09:26:20	n/a	n/a
