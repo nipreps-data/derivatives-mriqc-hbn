@@ -1,1 +1,1 @@
- autoenable=true location=https://gin-nipreps/nipreps-data/hbn-mriqc.git name=gin-storage type=git timestamp=1714056445.868659s
+a3c16865-df03-4e48-a667-fcbc90f4c0cd autoenable=true bucket=mriqc datacenter=US encryption=none exporttree=yes fileprefix=hbn100/ host=s3.amazonaws.com name=s3 port=80 public=yes publicurl=https://mriqc.s3.amazonaws.com/ storageclass=STANDARD type=S3 versioning=yes timestamp=1714639404.937416s
